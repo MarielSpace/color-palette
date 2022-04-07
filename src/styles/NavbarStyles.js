@@ -24,7 +24,6 @@ export default {
     padding: '0 13px',
     fontSize: '22px',
     backgroundColor: '#2c3e50',
-    fontFamily: 'Roboto',
     height: '100%',
     display: 'flex',
     alignItems: 'center',
